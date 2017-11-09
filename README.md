@@ -1,2 +1,2 @@
-# LovEvent
-our work for LovEvent
+# Lovevent
+Materials and code for lovevent
