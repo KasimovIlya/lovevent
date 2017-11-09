@@ -1,0 +1,33 @@
+html {
+    background: #fff;
+}
+
+body {
+   
+}
+
+p.shapka {
+    font-size: 20pt;
+    font-variant: normal;
+    font-family: "Bookman Old Style", serif;
+    color: #9b7b7e;
+    margin-left: 65pt;
+    margin-right: 65pt;
+    float:left;
+    
+}
+
+img.shapka{
+    margin-left: 65pt;
+    margin-right: 65pt;
+    float:left;
+}
+
+hr{
+    border: 65pt;
+    background-color: #cd9ba6; 
+    color: #cd9ba6; 
+    height: 1px; 
+    width: auto;
+    
+}
